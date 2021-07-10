@@ -6,7 +6,7 @@ Warning: Hello World is licensed under the MIT License.
 If you need any GitHub help, just ask them, not me.
 
 
-If the problem still exists, try asking somenone you trust in Skype.
+
 
 According to that, as I still did not complete Hello World, my name is Youssef. So, don't try to stop me.
 
